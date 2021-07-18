@@ -51,5 +51,5 @@ while file:
 				print('Your password is : ',passw)
 				break
 	except:
-		print('\nSleeping for time : 5 min\n')
+		print('\nSleeping for time : 3 min\n')
 		time.sleep(300)
