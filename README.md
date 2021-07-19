@@ -1,4 +1,4 @@
-# fb 
+# fb
 
 welcome to my tool  
 
@@ -20,4 +20,5 @@ python3 fb.py
 ![CAPTURE 1](https://github.com/Khalidhusain786/fb/blob/main/Screenshot_2021-07-19_14_43_17.png) 
 ![CAPTURE 1](https://github.com/Khalidhusain786/fb/blob/main/Screenshot_2021-07-19_14_44_28.png) 
 
-# THANK YOU 
+
+# THANK YOU AND LOVE YOU ALL
