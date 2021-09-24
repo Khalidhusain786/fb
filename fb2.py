@@ -25,7 +25,7 @@ except:
 	sys.exit()
 
 print('\n---------- KHALID HUSAIN ----------\n')
-file=open('passwords.txt','r')
+file=open('k.txt','r')
 
 email=str(raw_input('Enter Email/Username : ').strip())
 
