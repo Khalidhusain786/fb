@@ -4,7 +4,9 @@ welcome to my tool
 
 This tool help for guessing passwords of your account 
 
-# Installation 
+# Installation
+
+```bash
 
 git clone https://github.com/Khalidhusain786/fb.git 
 
@@ -14,7 +16,8 @@ python3 -m pip install requests bs4
 
 python3 -m pip install mechanize  
 
-python3 fb.py 
+python3 fb.py
+```
 
 # Be Careful
 
